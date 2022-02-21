@@ -1,5 +1,5 @@
-👋 Hi, I’m Aleksander!                                                                                      
-  I love programming 💻 and pixel art 🎨 so i do it more than sometimes! 🙃
+Hi, I’m Aleksander!👋                                                                                 
+I love programming 💻 and pixel art 🎨 so i do it more than sometimes! 🙃
 
 Website: https://alukasiewicz.web.app
 
