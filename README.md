@@ -6,10 +6,11 @@ Website: https://alukasiewicz.web.app
 Twitter: https://twitter.com/oleklukasiewicz                                               
 Instagram: https://www.instagram.com/oleklukasiewicz
 
+</br>
+
 <p align="left">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=oleklukasiewicz&show_icons=true&theme=nord" />
-  &nbsp;
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=oleklukasiewicz&layout=compact&show_icons=true&langs_count=10&theme=nord" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=oleklukasiewicz&show_icons=true&theme=github_dark" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=oleklukasiewicz&layout=compact&show_icons=true&langs_count=10&theme=github_dark" />
 </p>
 
 <!---
