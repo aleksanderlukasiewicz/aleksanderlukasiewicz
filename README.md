@@ -1,7 +1,7 @@
 Hi, I’m Aleksander!👋                                                                                 
 I love programming 💻 and pixel art 🎨 so i do it more than sometimes! 🙃
 
-Website: https://alukasiewicz.web.app
+Website: https://alukasiewicz.online
 
 Twitter: https://twitter.com/oleklukasiewicz                                               
 Instagram: https://www.instagram.com/oleklukasiewicz
