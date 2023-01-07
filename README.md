@@ -7,7 +7,7 @@ I love programming 💻 and pixel art 🎨 so i do it more than sometimes! 🙃
 [![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.com/users/512282863706832943) &nbsp;
 
 ### Skills!
-![My Skills](https://skillicons.dev/icons?i=svelte,js,cs,visualstudio,vscode,firebase)
+![My Skills](https://skillicons.dev/icons?i=svelte,js,cs,visualstudio,vscode,azure,firebase)
 
 </br>
 
