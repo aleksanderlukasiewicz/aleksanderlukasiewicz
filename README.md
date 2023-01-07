@@ -1,10 +1,13 @@
-Hi, I’m Aleksander!👋                                                                                 
+# Hi, I’m <a href="https://alukasiewicz.online">Aleksander</a>!👋                                                                                 
 I love programming 💻 and pixel art 🎨 so i do it more than sometimes! 🙃
 
-Website: https://alukasiewicz.online
+### Join me!
+[![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/oleklukasiewicz) &nbsp;
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/oleklukasiewicz/) &nbsp;
+[![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.com/users/512282863706832943) &nbsp;
 
-Twitter: https://twitter.com/oleklukasiewicz                                               
-Instagram: https://www.instagram.com/oleklukasiewicz
+### Skills!
+![My Skills](https://skillicons.dev/icons?i=svelte,js,cs,visualstudio,vscode,firebase)
 
 </br>
 
