@@ -3,8 +3,8 @@ I love programming 💻 and pixel art 🎨 so i do it more than sometimes! 🙃
 
 ### Join me!
 [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/oleklukasiewicz) &nbsp;
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/oleklukasiewicz/) &nbsp;
 [![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.com/users/512282863706832943) &nbsp;
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/oleklukasiewicz/) &nbsp;
 
 ### Skills!
 ![My Skills](https://skillicons.dev/icons?i=svelte,js,cs,visualstudio,vscode,azure,firebase)
