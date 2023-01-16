@@ -1,12 +1,12 @@
 # Hi, I’m <a href="https://alukasiewicz.online">Aleksander</a>!👋                                                                                 
 I love programming 💻 and pixel art 🎨 so i do it more than sometimes! 🙃
 
-### Join me!
+### Join me
 [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/oleklukasiewicz) &nbsp;
 [![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.com/users/512282863706832943) &nbsp;
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/oleklukasiewicz/) &nbsp;
 
-### Skills!
+### Skills
 ![My Skills](https://skillicons.dev/icons?i=svelte,js,cs,visualstudio,vscode,azure,firebase)
 
 </br>
