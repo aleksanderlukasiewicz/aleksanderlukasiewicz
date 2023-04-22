@@ -12,7 +12,7 @@ I love programming 💻 and pixel art 🎨 so i do it more than sometimes! 🙃
 </br>
 
 <p align="left">
-  <img width="50%" src="https://repo-stats-mu.vercel.app/api/top-langs/?username=oleklukasiewicz&layout=compact&show_icons=true&bg_color=161b22&border_color=161b22&text_color=c9d1d9&langs_count=8" />
+  <img width="50%" src="https://repo-stats-mu.vercel.app/api/top-langs/?username=oleklukasiewicz&layout=compact&langs_count=8" />
   <!--<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=oleklukasiewicz&layout=compact&show_icons=true&langs_count=5&bg_color=161b22&border_color=30363d&text_color=c9d1d9" /> --->
 </p>
 
