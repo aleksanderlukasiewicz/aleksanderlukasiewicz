@@ -11,7 +11,7 @@ I love programming 💻 and pixel art 🎨 so i do it more than sometimes! 🙃
 
 ### Languages
 <p align="left">
-  <img src="https://repo-stats-mu.vercel.app/api/top-langs/?username=oleklukasiewicz&layout=compact&langs_count=6&card_width=440" />
+  <img src="https://repo-stats-mu.vercel.app/api/top-langs/?username=oleklukasiewicz&layout=compact&langs_count=6&card_width=420" />
   
   <!--<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=oleklukasiewicz&layout=compact&show_icons=true&langs_count=5&bg_color=161b22&border_color=30363d&text_color=c9d1d9" /> --->
 </p>
