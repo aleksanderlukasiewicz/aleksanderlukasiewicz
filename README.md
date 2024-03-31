@@ -6,8 +6,9 @@ I love programming 💻 and pixel art 🎨 so i do it more than sometimes! 🙃
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/oleklukasiewicz/) &nbsp;
 
 ### Skills
-![My Skills](https://skillicons.dev/icons?i=svelte,ts,js,dotnet,vue)
-![My Skills](https://skillicons.dev/icons?i=vuetify,threejs,nuxtjs,vite,visualstudio,vscode,vercel,azure,firebase)
+![My Skills](https://skillicons.dev/icons?i=svelte,ts,vue,js,dotnet,vuetify,threejs)
+<br/>
+![My Skills](https://skillicons.dev/icons?i=nuxtjs,vite,visualstudio,vscode,vercel,azure,firebase)
 
 ### Languages
 <p align="left">
