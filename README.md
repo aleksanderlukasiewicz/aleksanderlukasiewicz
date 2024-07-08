@@ -6,13 +6,13 @@ I love programming 💻 and pixel art 🎨 so i do it more than sometimes! 🙃
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/oleklukasiewicz/) &nbsp;
 
 ### Skills
-![My Skills](https://skillicons.dev/icons?i=svelte,ts,js,dotnet,vue,threejs,vuetify)
+![My Skills](https://skillicons.dev/icons?i=svelte,ts,js,dotnet,cs,vue,threejs,vuetify)
 <br/>
-![My Skills](https://skillicons.dev/icons?i=nuxtjs,rabbitmq,vercel,azure,firebase,visualstudio,vscode)
+![My Skills](https://skillicons.dev/icons?i=nuxtjs,vite,rabbitmq,vercel,azure,firebase,visualstudio,vscode)
 
 ### Languages
 <p align="left">
-  <img src="https://repo-stats-mu.vercel.app/api/top-langs/?username=oleklukasiewicz&layout=compact&langs_count=6&card_width=430&exclude_repo=profile-stats&disable_animations=true&hide=html" />
+  <img src="https://repo-stats-mu.vercel.app/api/top-langs/?username=oleklukasiewicz&layout=compact&langs_count=6&card_width=580&exclude_repo=profile-stats&disable_animations=true&hide=html" />
   
   <!--<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=oleklukasiewicz&layout=compact&show_icons=true&langs_count=5&bg_color=161b22&border_color=30363d&text_color=c9d1d9" /> --->
 </p>
