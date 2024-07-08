@@ -7,7 +7,7 @@ I love programming 💻 and pixel art 🎨 so i do it more than sometimes! 🙃
 
 ### Skills
 ![My Skills](https://skillicons.dev/icons?i=svelte,ts,js,dotnet,cs,vue,threejs,vuetify)
-<br/>
+<br/><br/>
 ![My Skills](https://skillicons.dev/icons?i=nuxtjs,vite,rabbitmq,vercel,azure,firebase,visualstudio,vscode)
 
 ### Languages
